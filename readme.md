@@ -1,6 +1,6 @@
-If you fancy this snake :)
+If you fancy this snake :) 
 
-Here are the steps to set up the snake in your profile page.
+Here are the steps to set up the snake in your profile page:
 
 You will need to build a repository the same name as your username. 
 
