@@ -1,8 +1,8 @@
 If you fancy this snake :) 
 
-Here are the steps to set up the snake in your profile page:
+Here are the steps to set up this fancy snake in your profile page:
 
-You will need to build a repository the same name as your username. 
+You will need to build a repository the same name as your username first. 
 
 Under this repo you will create a readme.md file. 
 
